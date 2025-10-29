@@ -4,5 +4,5 @@ tags={
 	"Character Interactions"
 }
 name="BCK - Chronicler"
-supported_version="1.17.*"
+supported_version="1.18.*"
 remote_file_id="3556195315"
